@@ -1,5 +1,5 @@
 Folder structure
 
 - Data 
--lib
+- Lib
 - code
